@@ -1,6 +1,6 @@
 # moomins
 
-Here is an excerpt of the shot loader section from Moomins. The full code is currently being modified.
+Here is an excerpt of the shot loader section from Moomins. The full code is currently being modified.  
 Moomins api 에 있는 shot loader 부분만 발췌한 스크립트입니다. 현재 전체 코드 수정 중에 있습니다.
 
 
